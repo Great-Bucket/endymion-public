@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Secrets
+.env
+.env.op
+.env.local
+
+# OS
+.DS_Store
+.obsidian/
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+*.swo
+
+# Large media — full-length films are excluded. The 1-min sample clip is committed.
+assets/loops/
+assets/video/*.m4v
+assets/video/*.mkv
+assets/video/*.mov
+assets/video/*.mp4
+!assets/video/1min-slowFilm_10mbps_endymion-installation_h264.mp4
+
+# Test / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Logs — entire directory excluded from public repo
+*.log
+logs/

@@ -1,0 +1,25 @@
+# Core
+numpy>=1.24
+opencv-python>=4.8
+
+# Display / playback
+pygame>=2.5
+
+# GPU shaders (Architecture D — sensor-driven shader on top of video)
+# Uncomment if going the moderngl route:
+# moderngl>=5.10
+# PyGLM>=2.7
+
+# Kinect v1 Python bindings (Pi only — requires freenect system library)
+# sudo apt install freenect libfreenect-dev   (Debian/Pi)
+# pip install freenect
+# Not installed on Mac — sensor falls back gracefully if import fails.
+# freenect>=0.1.0
+
+# Leap Motion Python bindings
+# Install separately from Ultraleap SDK:
+# pip install leapc-cffi
+# (not on PyPI in standard form — see docs/SETUP.md)
+
+# Utilities
+python-dotenv>=1.0
