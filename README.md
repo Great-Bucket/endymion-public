@@ -11,11 +11,13 @@ An interactive video installation in which a viewer's stillness shapes a project
 
 ## What it is
 
-A single viewer enters a small, cave-like space and sits in a chair facing a projected film. The system watches them with a Kinect depth sensor. When the viewer is still, the image brightens slowly — moonlight descending. When they move, the image retreats into darkness and holds there before gradually recovering.
+A single viewer enters a small, cave-like space and sits in a chair facing a projected film. The system watches them with a Kinect depth sensor. When the viewer is still, the image brightens slowly (like moonlight appearing). When the viewer movse, the image retreats into darkness and holds there before gradually recovering.
 
-The piece is named after the Greek myth of Endymion: the sleeper on Mount Latmos who lies with open eyes while Selene, goddess of the Moon, descends each night to watch him. The encounter is structurally asymmetric — one figure watched, the other watching, across a divide that cannot be crossed. The sensor sees the viewer in ways the viewer cannot return: depth, velocity, silhouette. This asymmetry is part of the work.
+The piece is named after the Greek myth of Endymion: the sleeper in a cave on Mount Latmos who sleeps with open eyes while Selene, goddess of the Moon, descends each night to watch him watch her in his stillness. The sensor sees the viewer in ways the viewer cannot return: depth, velocity, silhouette. This asymmetry is part of the work.
 
 Stillness is the input. The system rewards sustained attention, not gesture.
+
+More info: https://www.reedoco.io/endymion-revisited/
 
 ---
 
